@@ -1,3 +1,4 @@
+
 <?php
 	/**
 	 * Created by PhpStorm.
@@ -78,3 +79,4 @@
 	class mStaff extends MY_Model implements iStaff {
 
 	}
+

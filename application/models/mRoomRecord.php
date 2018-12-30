@@ -1,3 +1,4 @@
+
 <?php
 	/**
 	 * Created by PhpStorm.
@@ -30,9 +31,5 @@
 		{
 			return $this -> get($userId);
 		}
-
-	}
-
-	class mRoomRecord extends MY_Model implements iRoomRecord {
 
 	}
